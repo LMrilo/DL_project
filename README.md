@@ -2,7 +2,7 @@
 
 Deep Learning Applications - instructor: Dr. Pozzi
 
-##Students
+## Students
 
     Full Name: Bruni Prenestino Francesco
     email: francesco.bruniprenestino01@icatt.it
